@@ -1,0 +1,16 @@
+*{
+    background-color: cornflowerblue;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    float: right;
+    margin: 20px;
+}
+.wrapper{
+    margin: 100px;
+    float: left;
+}
